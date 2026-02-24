@@ -1,0 +1,7 @@
+{
+  "name": "Aplikasi Guru Wali Premium",
+  "description": "A modern and premium Homeroom Teacher Journal application for student management and counseling logs, featuring PDF/DOCX exports and Google Sheets integration support.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
